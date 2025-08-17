@@ -3,7 +3,7 @@
 This project implements a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset, which contains 70,000 grayscale images across 10 clothing categories (T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot).
 
 ✅ Results
-Test Accuracy: 88.76%
+Test Accuracy: 90.43%
 
 Model: Custom CNN architecture with multiple convolutional, pooling, and dense layers.
 
